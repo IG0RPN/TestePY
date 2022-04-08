@@ -1,0 +1,1 @@
+print   ('Companhia Stark é a Melhor')
